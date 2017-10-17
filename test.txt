@@ -1,1 +1,2 @@
 test de contribution sur Github
+github est une plateforme de communauté de développeur partageant du contenu.
